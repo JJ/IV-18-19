@@ -76,3 +76,5 @@
 - [x] Saber cómo aplicarlos en un caso determinado.
 - [x] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
 - [x] Llevado a cabo todos los puntos del Hito 5 para finalizar la asignatura.
+- [x] Explicitado que hay partes de mi Vagrantfile COPIADAS y puesto comentarios tratando de demostrar que (ahora si) sé lo que hago en él.
+- [x] Mejorado también mi playbook y fabfile corrigiendo errores comunicados por el profesor.
