@@ -1,4 +1,4 @@
-# Objetivos Semana 1
+Objetivos Semana 1
 
 - [x] [Fichero](https://github.com/JJ/IV-18-19/blob/master/objetivos/jcpulido97.md) de objetivos creado.
 - [x] Fork del repositorio del curso.
@@ -158,3 +158,5 @@
 - [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
 - [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
 - [x] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+
+- [x] Crear un Vagrantfile avanzado personalizado.
