@@ -84,4 +84,8 @@
 - [x] Entender los conceptos de los servicios en la nube.
 - [x] Entender el concepto de provisionamiento.
 - [x] Instalar clientes de servicios en la nube.
-- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales
+- [x] Entender el concepto de provisionamiento y cómo encaja con la orquestación de máquinas virtuales
+- [x] Corregir hito 5
+- [x] Entender el despliegue de la máquina con vagrant, y el cliente de azure.
+- [x] Terminar de entender el concepto de "infraestructura como software"
+- [x] Entender las dudas que me han surgido en el último hito
