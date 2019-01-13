@@ -32,7 +32,7 @@ Añade debajo enlaces a tu proyecto
 | LOPEZ CASTRO, JUAN MANUEL|[ProyectoIV](https://github.com/juanmaLC/ProyectoIV)  |**Reenvío 5.5** |
 | LOPEZ RUIZ, MARIO ANTONIO| [Billboard-IV](https://github.com/marioanloru/Billboard-IV) | 3.1 |
 | MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 2.7 |
-| MARTIR MORENO, NATALIA MARIA|[Proyecto IV Noticias](https://github.com/natalia2911/ProyectoIV-BOT)|1.0|
+| MARTIR MORENO, NATALIA MARIA|[Proyecto IV Noticias](https://github.com/natalia2911/ProyectoIV-BOT)|**Reenvío 2.0**|
 | MARTOS RODRIGUEZ, ANTONIO| | |
 | MAS MESA, IGNACIO | [Agon](https://github.com/cronos2/Agon) | 0.5.0 |
 | MORENO LOPEZ, JUAN ESTEBAN| | |
