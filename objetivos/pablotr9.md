@@ -35,8 +35,7 @@
  - [x] Comprender la importancia de los contenedores
  - [x] Entender la base del aislamiento de recursos, y las diferentes formas de aislar dichos recursos
  - [x] Hacer pruebas con las imagenes de docker publicadas
- - [x] Darse de alta en Zeit e instalación del cliente
-
+ - [x] Darse de alta en Zeit e instalación del cliente.
 
 ## Hito 5:
 
