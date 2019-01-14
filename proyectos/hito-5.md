@@ -30,7 +30,7 @@ Añade debajo enlaces a tu proyecto
 | JIMENEZ CAZORLA, MIGUEL| [Proyecto IV - Porra Deportiva](https://github.com/iMiguel10/Proyecto-IV-Porra-Deportiva-)  | **3.5.4 (r)** |
 | KEMP MUÑOZ, MARCEL| | |
 | LOPEZ CASTRO, JUAN MANUEL|[ProyectoIV](https://github.com/juanmaLC/ProyectoIV)  |**Reenvío 5.5** |
-| LOPEZ RUIZ, MARIO ANTONIO| [Billboard-IV](https://github.com/marioanloru/Billboard-IV) | 3.1 |
+| LOPEZ RUIZ, MARIO ANTONIO| [Billboard-IV](https://github.com/marioanloru/Billboard-IV) | **4.1 Reenvío** |
 | MARTINEZ GARCIA, ANTONIO| [Proyecto](https://github.com/antoniomg89/Project-Z) | 2.7 |
 | MARTIR MORENO, NATALIA MARIA|[Proyecto IV Noticias](https://github.com/natalia2911/ProyectoIV-BOT)|**Reenvío 2.0**|
 | MARTOS RODRIGUEZ, ANTONIO| | |
