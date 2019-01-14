@@ -109,6 +109,10 @@ Comprobar los servicios de publicación de contenedores de los diferentes sistem
 - [x] Seleccionar sistemas operativos e imágenes adecuadas al trabajo. El seleccionar una imagen para desplegar es esencial para que se trabaje de forma eficiente, y en la asignatura de ISE se proporcionan diferentes herramientas para evaluar las prestaciones de diferentes sistemas operativos.
 
 ## Semana 3 de Diciembre
-- [ ] -Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
-- [ ] -Entender los conceptos de los servicios en la nube.
-- [ ] -Entender el concepto de provisionamiento.
+- [x] -Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] -Entender los conceptos de los servicios en la nube.
+- [x] -Entender el concepto de provisionamiento.
+- [x] -Revisar errores comunes en el hito 4.
+- [x] -Instalar clientes de servicio en la nube.
+- [x] -Entender temas de seguridad de la información relacionados con los servicios en la nube.
+- [x] -Hacer pruebas de provisionamiento de servicios en la nube.
