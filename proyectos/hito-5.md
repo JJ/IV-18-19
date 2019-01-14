@@ -10,14 +10,14 @@ Añade debajo enlaces a tu proyecto
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | **Reenvío 5.4.1** |
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV) | 0.3|
 | CALVO VILLAZAN, RUBEN| | |
-| CRUZ PEREZ, SERGIO|[AlmacenparaunDJ](https://github.com/SergioCruzPerez/InfraestructuraVirtual.git) | 5.1 |
+| CRUZ PEREZ, SERGIO|[AlmacenparaunDJ](https://github.com/SergioCruzPerez/InfraestructuraVirtual.git) | **Reenvío 5.1** |
 | DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | 5.8 |
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL| [Planificador_Diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | **1.5.4 Reenvío** |
 | FLORES GARRIDO, FERNANDO| | |
 | FUERTES MORENO, PEDRO LUIS| | |
-| GALERA GARRIDO, JUSTO JAVIER| | |
+| GALERA GARRIDO, JUSTO JAVIER| [FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 0.3 |
 | GARCIA MANCILLA, JAVIER|[Marcador Deportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819) | 1.5.1 |
 | GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer) | **2.2** |
 | GUERRERO PINTEÑO, ALVARO| | |
