@@ -50,7 +50,25 @@
 - [x] Entender la base del aislamiento de recursos en el sistema operativo.
 - [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 
-Ejercicios:
-[https://github.com/FFGFER/Ejercicios-IV/tree/master/Tema%20introductorio](https://github.com/FFGFER/Ejercicios-IV/tree/master/Tema%20introductorio)
+## Décima Semana
+- [x] Entender los conceptos fundamentales de virtualización.
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+## Undécima Semana
+- [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+
+## Duodécima Semana
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+
+## Décimo tercera Semana
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+## Décimo cuarta Semana
+- [x] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto
+
+
 
 
