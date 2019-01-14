@@ -83,10 +83,10 @@ Lista de objetivos Semana 11:
 
 Lista de objetivos Semana 12:
 
-- [] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales.
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales.
 - [x] Entender cómo combinar las distintas tecnologías para realizar un despliegue de una apliación en la nube.
 
 Lista de objetivos Semana 13:
 
 - [x] Terminar de entender el concepto de infraestructura como software y ponerlo en práctica en el hito final.
-- [] Entrega del hito final.
+- [x] Entrega del hito final.
