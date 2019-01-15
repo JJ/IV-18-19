@@ -74,12 +74,11 @@ SKIP: {
   if ( $this_hito > 0 ) { # Comprobar milestones y eso
     doing("hito 1");
     cmp_ok( how_many_milestones( $user, $name), ">=", 3, "Número de hitos correcto");
-    
+
     my @closed_issues =  closed_issues($user, $name);
     cmp_ok( $#closed_issues , ">=", 0, "Hay ". scalar(@closed_issues). " issues cerrado(s)");
     for my $i (@closed_issues) {
-      my ($issue_id) = ($i =~ /issue-id-(\d+)/);
-      
+      my ($issue_id) = ($i =~ /(\d+)/);
       is(closes_from_commit($user,$name,$issue_id), 1, "El issue $issue_id se ha cerrado desde commit")
     }
   }
