@@ -23,7 +23,7 @@ Añade debajo enlaces a tu proyecto
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
 | GUTIERREZ SEGOVIA, JORGE|[BirthBot](https://github.com/Saytes/BirthBot.git)|1.1|
-| HERNANDEZ RECIO, ALEJANDRO MANUEL| [GestorEquipos](https://github.com/alexhzr/GestorEquipos) | 0.1 **Reenvío** |
+| HERNANDEZ RECIO, ALEJANDRO MANUEL| [GestorEquipos](https://github.com/alexhzr/GestorEquipos) | 0.2 **Reenvío** |
 | HERRERA VARGAS, ALBERTO|[Hospital-IV](https://github.com/alberturria/Hospital-IV) | 2 |
 | JALDO RUIZ, JESUS MIGUEL|[OWStatistics](https://github.com/JmZero/Proyecto-IV) | 1.1 |
 | JIMENEZ ARGUELLO, ANTONIO JOSE|[ProyectoIV](https://github.com/antonioJ95/ProyectoIV)|0.3 |
