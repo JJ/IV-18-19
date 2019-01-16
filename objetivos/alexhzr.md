@@ -28,6 +28,8 @@
 - [x] Entender y usar los test en el repositorio.
 - [x] Crear un nuevo proyecto. El anterior era demasiado complejo para la asignatura.
 - [x] Trabajar con Travis-CI, entender qué hace y cómo funciona.
+- [x] Configurar correctamente Travis-CI.
+- [x] Ampliar la clase de tests, así como documentar mejor su uso y funcionamiento.
 
 ## Semana 05
 - [x] Estudiar el término PaaS
