@@ -18,6 +18,10 @@
 - [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
 - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
 - [x] Instalar las herramientas necesarias para crear y aplicar tests en un proyecto.
+- [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
+- [x] Comprender el papel de las build tools o herramientas de automatización.
+- [x] Comprender el sentido de mantener una buena documentación y un README.md claro y conciso.
+
 
 ## Semana 04 - Hito 2
 - [x] Refresco rápido de JSON. Ya lo había utilizado antes.
