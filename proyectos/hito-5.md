@@ -15,7 +15,7 @@ Añade debajo enlaces a tu proyecto
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL| [Planificador_Diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | **1.5.4 Reenvío** |
-| FLORES GARRIDO, FERNANDO| | |
+| FLORES GARRIDO, FERNANDO| [Tienda-vg](https://github.com/FFGFER/Proyecto-IV) | ** 1.0 (Envío tardío) ** |
 | FUERTES MORENO, PEDRO LUIS| | |
 | GALERA GARRIDO, JUSTO JAVIER| [FindAInformatic](https://github.com/JotaGalera/FindAInformatic) | 0.3 |
 | GARCIA MANCILLA, JAVIER|[Marcador Deportivo](https://github.com/JaviMancilla/MarcadorDeportivo_IV1819) | 1.5.1 |
