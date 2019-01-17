@@ -22,7 +22,7 @@ Añade debajo enlaces a tu proyecto
 | GOMEZ MARTIN, ANGEL| [IPContainer](https://github.com/harvestcore/IPContainer) | **2.2** |
 | GUERRERO PINTEÑO, ALVARO| | |
 | GUERRERO PINTEÑO, ANDRES| | |
-| GUTIERREZ SEGOVIA, JORGE| | |
+| GUTIERREZ SEGOVIA, JORGE| [BirthBot](https://github.com/Saytes/BirthBot) | **1.0** |
 | HERNANDEZ RECIO, ALEJANDRO MANUEL| | |
 | HERRERA VARGAS, ALBERTO| [Hospital-IV](https://github.com/alberturria/Hospital) | **Reenvío 2.0** |
 | JALDO RUIZ, JESUS MIGUEL| [OWStatistics](https://github.com/JmZero/Proyecto-IV) | **Reenvío 5.4** |
