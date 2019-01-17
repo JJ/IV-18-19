@@ -54,3 +54,15 @@
 - [x] Probar zeit.co, pero sólo funciona con JavaScript así que no puedo usarlo para mi app.
 - [x] Intentar que me vuelvan a abrir la cuenta en OpenShift.
 ---
+# Hito 4
+## Semana 08
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual.
+- [x] Entender las arquitecturas software basadas en contenedores.
+- [x] Haber entregado el tercer hito del proyecto.
+- [x] Instalar Docker y empezar a trabajar con él.
+- [x] Usar imágenes de docker publicadas.
+
+## Semana 09
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Familiarizarse con Docker.
