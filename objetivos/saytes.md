@@ -73,11 +73,14 @@ de los sistemas opertavos. Saber si el ordenador habitual lo usa.
 ## Hito 4
 
 - [x] Entender cómo las diferentes tecnologías de virtualización se integran en la creación de contenedores.
-
 - [x] Crear infraestructuras virtuales completas.
-
 - [x] Realizar los ejercicios correspondientes al Hito 4.
-
 - [x] Comprender los pasos necesarios para la configuración automática de las mismas.
-
 - [x] Darse de alta en DockerHub.
+- [ ] 
+
+## Hito 5
+
+- [x] Realizar despliegue Azure de mi proyecto.
+- [x] Conocer los sistemas de gestión, configuración, aprovisionamiento y monitorización más usados.
+- [x] Documentar todo lo realizado.
