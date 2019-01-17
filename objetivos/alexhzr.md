@@ -1,4 +1,5 @@
-## Semana 01 - Hito 0
+# Hito 0
+## Semana 01
  - [x] Hecho fork al repositorio principal
    - [Mi repositorio de la asignatura](https://github.com/alexhzr/IV-18-19)
 - [x] Creado [repositorio de ejercicios](https://github.com/alexhzr/IV-18-19-Ejercicios)
@@ -12,8 +13,10 @@
 - [x] Elegir una licencia adecuada
 - [x] Entender el concepto de desarrollo con test
 - [x] Ampliar la descripción de mi proyecto y trabajar con milestones
+---
+# Hito 1
 
-## Semana 03 - Hito 1
+## Semana 03
 - [x] Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
 - [x] Entender los ficheros de requisitos o dependencias y su utilidad en las infraestructuras virtuales.
 - [x] Comprender la utilidad de la virtualización y definición en un fichero de herramientas de desarrollo (makefiles, rakefiles, requiments.txt, package.json, ficpanfile, ficheros de Maven...).
@@ -21,9 +24,9 @@
 - [x] Usar los gestores de versiones en diferentes lenguajes de programación y entender su utilidad.
 - [x] Comprender el papel de las build tools o herramientas de automatización.
 - [x] Comprender el sentido de mantener una buena documentación y un README.md claro y conciso.
-
-
-## Semana 04 - Hito 2
+---
+# Hito 2
+## Semana 04
 - [x] Refresco rápido de JSON. Ya lo había utilizado antes.
 - [x] Entender y usar los test en el repositorio.
 - [x] Crear un nuevo proyecto. El anterior era demasiado complejo para la asignatura.
@@ -35,12 +38,19 @@
 - [x] Estudiar el término PaaS
 - [x] Empezar a configurar Heroku
 - [x] Planificar cómo orientar mi aplicación a ser un microservicio  
-
-
+---
+# Hito 3
 ## Semana 06
 - [x] Comprender las diferencias y parecidos entre diferentes sistemas PaaS comerciales, exclusivos o parte de un proveedor cloud como Azure.
 - [x] Internalizar el concepto de PaaS, su aplicación y sus limitaciones.
 - [x] Entender el concepto de despliegue y cómo la infraestructura virtual y su especificación son esenciales para el mismo.
 - [x] Resolver los problemas que surjan en los primeros despliegues.
-- [ ] Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web services.
-- [ ] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+- [x] Darse de alta y probar diferentes servicios PaaS como Heroku, Zeit.co y Azure Web services.
+- [x] Aprender buenas prácticas en entornos con integración y despliegue continuo: uso de ramas en el código, uso de tags para releases...
+- [x] Desplegar la aplicación en Heroku.
+
+## Semana 07
+- [x] Probar diferentes formas de desplegar aplicaciones desde línea de órdenes y repositorios.
+- [x] Probar zeit.co, pero sólo funciona con JavaScript así que no puedo usarlo para mi app.
+- [x] Intentar que me vuelvan a abrir la cuenta en OpenShift.
+---
