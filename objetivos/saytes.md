@@ -77,10 +77,10 @@ de los sistemas opertavos. Saber si el ordenador habitual lo usa.
 - [x] Realizar los ejercicios correspondientes al Hito 4.
 - [x] Comprender los pasos necesarios para la configuración automática de las mismas.
 - [x] Darse de alta en DockerHub.
-- [ ] 
 
 ## Hito 5
 
 - [x] Realizar despliegue Azure de mi proyecto.
 - [x] Conocer los sistemas de gestión, configuración, aprovisionamiento y monitorización más usados.
 - [x] Documentar todo lo realizado.
+- [x] Ejercicios correspondientes al Hito 5 terminados.
