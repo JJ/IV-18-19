@@ -72,6 +72,15 @@ Lista de objetivos
   - [x] Entender los conceptos fundamentales de virtualización.
   - [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
 
-## Lista de objetivos Semana 11:
+## Semana 11
   - [x] Instalar clientes de servicios en la nube.
   - [x] Entender temas de seguridad respecto a la nube.
+
+## Semana 12
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales.
+- [x] Entender cómo combinar las distintas tecnologías para realizar un despliegue de una apliación en la nube.
+
+## Semana 13
+- [x] Terminar de entender el concepto de infraestructura como software y ponerlo en práctica en el hito final.
+- [] Entrega del hito final.
+
