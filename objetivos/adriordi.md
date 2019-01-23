@@ -72,3 +72,12 @@ Lista de objetivos
 - [x] Entender conceptos sobre fundamentos de virtualización.
 - [x] Comprender el concepto de hipervisor y los diferentes tipos.
 
+## Semana 11, 12 y 13:
+
+- [x] Reenvio del hito 4.
+- [x] Comprender conceptos sobre provisionamiento y orquestación de máquinas virtuales para poder hacer un despliegue de mi aplicación en la nube.
+- [x] Documentarme sobre las diferentes infraestructuras como servicio y elegir finalmente una, en mi caso Google Cloud.
+- [x] Documentarme e instalar todo lo necesario para el hito 5.
+- [] Entrega del hito 5. 
+
+
