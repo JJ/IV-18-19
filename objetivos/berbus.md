@@ -105,3 +105,8 @@ El README.md del proyecto no describe objetivos de la asignatura, si no de la ap
 - [X] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
 - [X] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
 - [X] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+
+
+### Reenvios convocatoria extraordinaria
+- [ ] Reentrega del hito 4
+- [ ] Reentrega del hito 5
