@@ -28,7 +28,6 @@
 ✓ Entender qué implica diseñar un proyecto que se irá elaborando durante la asignatura.
 
 
-
 # Objetivos tercera semana
 
 ✓ Comprender cómo las pruebas de software encajan dentro del concepto de infraestructura virtual.
