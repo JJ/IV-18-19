@@ -11,7 +11,7 @@ Añade debajo enlaces a tu proyecto
 | CABRERA GONZALEZ, MARIA MATILDE|[Gestion-Medicamentos-IV](https://github.com/mati3/Gestion-Medicamentos-IV)|1.0.3|
 | CALVO VILLAZAN, RUBEN| | |
 | CRUZ PEREZ, SERGIO|[AlmacéndDJ](https://github.com/SergioCruzPerez/InfraestructuraVirtual) |4.1 |
-| DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | **5.7 Reenvío** |
+| DEL RIO AGUILAR, ALBERTO| [Proyecto](https://github.com/berbus/proyectoIV) | **5.11 Reenvío (extraordinaria)** |
 | DIAZ HERVAS, JOSE MIGUEL| | |
 | DIAZ RAMIREZ, JUAN CARLOS| | |
 | ENRIQUEZ FERNANDEZ, JOSE MANUEL| [Planificador diario](https://github.com/jomaenfe/Planificador_diario-IV1819) | 1.4.3 *REENVIO* |
