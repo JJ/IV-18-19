@@ -15,6 +15,7 @@
 
 # Objetivos 
 
+
 1. [X] Comenzar a entender los conceptos fundamentales relacionados con la virtualización.
 2. [X] Comprender las técnicas de cálculo del coste de amortización de un equipo informático y aplicarlo al cálculo del coste de uso de un recurso.
 
