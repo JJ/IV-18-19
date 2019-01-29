@@ -4,7 +4,7 @@ Añade debajo enlaces a tu proyecto
 
 | Nombre | Enlace | Versión |
 |--------|--------|---------|
-| ALARCON CUADROS, SAMUEL|[Pozyx-localizacion-interiores](https://github.com/kaizensamuel/Pozyx-localizacion-interiores) | 1.0 |
+| ALARCON CUADROS, SAMUEL|[Recetas](https://github.com/kaizensamuel/Recetas) | 1.0 |
 | ALVAREZ CARRASCO, JUAN|[Proyecto](https://github.com/vaderrama/Proyecto-IV) | 1.0 |
 | ARIZA GARCIA, CARLOS| [Proyecto](https://github.com/AGCarlos/IV_1819_Proyecto) | 1.0 |
 | BALDERAS RUIZ, LUIS| [TwitterLocationFlow](https://github.com/luisbalru/TwitterLocationFlow) | 0.1 |
