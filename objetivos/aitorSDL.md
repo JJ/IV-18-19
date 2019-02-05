@@ -128,3 +128,5 @@
 ✓ Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
 
 ✓ Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
+
+✓ Resolver dudas relativas a la entrega del hito final de la asignatura.
