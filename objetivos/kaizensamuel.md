@@ -120,3 +120,11 @@ usando PaaS
 
 # Semana 26 de Noviembre
 1. [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+
+
+# Semana 3 de Diciembre
+1. [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+
+2. [x] Entender los conceptos de los servicios en la nube.
+
+3. [x] Entender el concepto de provisionamiento.
