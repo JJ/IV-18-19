@@ -66,3 +66,27 @@
 - [x] Entender la base del aislamiento de recursos en el sistema operativo.
 - [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
 - [x] Familiarizarse con Docker.
+---
+# Hito 5
+## Semana 10
+- [x] Entender los conceptos fundamentales de virtualización
+- [x] Comprender el concepto de hipervisor y los diferentes tipos que hay.
+
+## Semana 11
+- [x] Usar el API de hipervisores locales y remotos desde Vagrant para crear máquinas virtuales.
+- [x] Terminar las entregas del 4º hito
+- [x] Probar diferentes tipos de máquinas virttuales con sistemas operativos libres y ver qué diferencias de prestaciones y otras ofrecen.
+
+## Semana 12
+- [x] Trabajar con proveedores en la nube y apreciar los parecidos y diferencias con los locales.
+- [x] Entender los conceptos de los servicios en la nube.
+- [x] Entender el concepto de provisionamiento.
+
+## Semana 13
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+
+## Semana 14
+- [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+- [x] Entender cómo combinar las tecnologías vistas en la asignatura para un despliegue de una aplicación en la nube.
+- [x] Terminar de entender el concepto de "infraestructura como software" y ponerlo en práctica en el hito final del proyecto.
