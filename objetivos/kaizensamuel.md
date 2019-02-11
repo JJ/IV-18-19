@@ -128,3 +128,7 @@ usando PaaS
 2. [x] Entender los conceptos de los servicios en la nube.
 
 3. [x] Entender el concepto de provisionamiento.
+
+# Semana 10 de Diciembre
+1. [x] Entender el concepto de aprovisionamiento y cómo encaja con la orquestación de máquinas virtuales y el resto de conceptos vistos en la asignatura.
+
