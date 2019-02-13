@@ -83,6 +83,17 @@
 - [x] Experimentar con el despliegue simultáneo a varios PaaS desde GitHub.
 - [x] Descargarse y conocer el CLI de Travis para usarlo para configurarlo y cosas por el estilo.
 
+### Semana 8
+- [x] Comprender la importancia de los contenedores en el el desarrollo informático actual
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+- [x] Entender las arquitecturas software basadas en contenedores
+
+### Semana 9 
+
+- [x] Entender la base del aislamiento de recursos en el sistema operativo.
+- [x] Entender las diferentes formas de aislar recursos en Linux u otros sistemas operativos.
+
 
 ## Enlace Repositorio de ejercicios
  Repositorio [Ejercicios_IV](https://github.com/maricicaP/Ejercicios_IV.git)
