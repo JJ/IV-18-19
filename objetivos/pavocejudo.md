@@ -91,3 +91,5 @@
 - [X] Orquestación de máquinas virtuales con Vagrant.
 - [X] Combinar tecnologías como Log y Servidor en una aplicación en la nube.
 
+## Semana 14
+- [X] Despliegue en Digital Ocean como IaaS utilizando Vagrant y Ansible como provisionador y FlightPlan como herramienta de despliegue

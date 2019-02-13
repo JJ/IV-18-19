@@ -116,3 +116,12 @@ Comprobar los servicios de publicación de contenedores de los diferentes sistem
 - [x] -Instalar clientes de servicio en la nube.
 - [x] -Entender temas de seguridad de la información relacionados con los servicios en la nube.
 - [x] -Hacer pruebas de provisionamiento de servicios en la nube.
+
+## Convocatoria extraordinaria
+
+- [x] -Se ha trabajado en la comprensión y resolución de los errores de compatibilidad de vagrant con ansible.
+- [x] -Se han realizado las capturas de las funciones de fabfile así como comentar por qué se han realizado y su uso.
+- [x] -Se han corregido errores en el playbook.yml
+- [x] -Se ha añadido más contenido y funcionalidad a Vagrantfile.
+- [x] -Se ha actualizado la documentación referente a azure.
+- [x] -Se ha actualizado el README del proyecto.

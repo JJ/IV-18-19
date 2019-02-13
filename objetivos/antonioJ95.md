@@ -82,5 +82,5 @@ Lista de objetivos
 
 ## Semana 13
 - [x] Terminar de entender el concepto de infraestructura como software y ponerlo en práctica en el hito final.
-- [] Entrega del hito final.
+- [x] Entrega del hito final.
 
