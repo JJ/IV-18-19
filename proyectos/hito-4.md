@@ -39,7 +39,7 @@ Añade debajo enlaces a tu proyecto
 | NAVARRETE CAMPOS, GINES|[LibSePeBOT-IV](https://github.com/GinesNC/LibSePeBOT-IV) |**2.0 Reenvío**|
 | ORDUÑA DIAZ, ADRIAN| [WorkWaitQueue](https://github.com/adriordi/proyectoIV) | **0.8.9.5 Reenvío** |
 | OSORIO GIRALDEZ, OSCAR|[ProyectoIV](https://github.com/widowert/ProyectoIV)| 2.3 |
-| PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 4.6|
+| PEREZ RUBIALES, DAVID JESUS| [Proyecto Vengadores](https://github.com/Davidj231996/Proyecto-Vengadores)| 4.6 convocatoria extraordinaria|
 | PINEDA MOCHON, IGNACIO| [PeluqueríaIV](https://github.com/nachop97m/PeluqueriaIV) | 4.3 |
 | PRALEA , MARICICA| | |
 | PRIETO INFANTE, JAVIER| | |
